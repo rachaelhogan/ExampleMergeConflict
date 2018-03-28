@@ -7,6 +7,10 @@ public class Main
         System.out.println("Hello world");
     }
 
+    public void methodInBranch()
+    {
+        System.out.println("Method in branch");
+    }
     public void methodInMaster()
     {
         System.out.println("Method in master");
